@@ -21,5 +21,5 @@ def escanear_vulnerabilidades(url):
         print(f"Error al realizar la solicitud: {str(e)}")
 
 if __name__ == "__main__":
-    url_objetivo = "https://www.ejemplo.com"  #url 
+    url_objetivo = "https://tecnica1merlo.edu.ar/"  #url 
     escanear_vulnerabilidades(url_objetivo)
